@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1535105282 source:d:\codeblock\quabongchuyendong\main.cpp
+	<iostream>
+	<math.h>
+	<graphics.h>
+
